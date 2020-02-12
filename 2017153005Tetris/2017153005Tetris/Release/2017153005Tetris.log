@@ -1,0 +1,37 @@
+﻿  tetris.cpp
+f:\vs_experiment\2017153005tetris\2017153005tetris\include/Angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+f:\vs_experiment\2017153005tetris\2017153005tetris\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\vs_experiment\2017153005tetris\2017153005tetris\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\vs_experiment\2017153005tetris\2017153005tetris\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\vs_experiment\2017153005tetris\2017153005tetris\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\vs_experiment\2017153005tetris\2017153005tetris\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\vs_experiment\2017153005tetris\2017153005tetris\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\vs_experiment\2017153005tetris\2017153005tetris\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(147): warning C4305: “参数”: 从“double”到“GLfloat”截断
+tetris.cpp(147): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(148): warning C4305: “参数”: 从“double”到“GLfloat”截断
+tetris.cpp(148): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(149): warning C4305: “参数”: 从“double”到“GLfloat”截断
+tetris.cpp(149): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(150): warning C4305: “参数”: 从“double”到“GLfloat”截断
+tetris.cpp(150): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(205): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(206): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(213): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(214): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(230): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(231): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(232): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(233): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+tetris.cpp(374): warning C4244: “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+tetris.cpp(375): warning C4244: “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+tetris.cpp(380): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+tetris.cpp(403): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+tetris.cpp(408): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+  正在生成代码
+  0 of 52 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  2017153005Tetris.vcxproj -> F:\VS_experiment\2017153005Tetris\Release\2017153005Tetris.exe
+  2017153005Tetris.vcxproj -> F:\VS_experiment\2017153005Tetris\Release\2017153005Tetris.pdb (Full PDB)
